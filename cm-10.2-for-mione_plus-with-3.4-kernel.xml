@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/xiaomi/msm8660-common" name="iptux/android_device_xiaomi_msm8660-common" revision="refs/heads/jb-7.7" />
+  <project path="device/xiaomi/mione_plus" name="iptux/android_device_xiaomi_mione_plus" revision="refs/heads/jb-7.7" />
+  <project path="vendor/xiaomi/mione_plus" name="iptux/android_vendor_xiaomi_mione_plus" revision="refs/heads/kernel-3.4" />
+
+  <project path="packages/apps/Firewall" name="iptux/android_packages_apps_Firewall" remote="github" revision="refs/heads/jellybean" />
+
+  <project path="hardware/qcom/display-legacy" name="iptux/android_hardware_qcom_display-legacy" revision="refs/heads/jb-7.7" />
+  <project path="hardware/qcom/media-legacy" name="Team-Hydra/android_hardware_qcom_media-legacy" />
+
+  <remove-project path="external/spongycastle" name="CyanogenMod/android_external_spongycastle" />
+  <remove-project path="packages/apps/CMAccount" name="CyanogenMod/android_packages_apps_CMAccount" />
+</manifest>
