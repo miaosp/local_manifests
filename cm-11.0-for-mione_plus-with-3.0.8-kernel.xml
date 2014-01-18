@@ -7,8 +7,6 @@
 
   <project path="packages/apps/Firewall" name="iptux/android_packages_apps_Firewall" remote="github" revision="refs/heads/jellybean" />
 
-  <remove-project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" />
-  <project path="hardware/qcom/audio-caf" name="Team-Hydra/android_hardware_qcom_audio-caf" revision="refs/heads/cm-11.0" />
   <project path="hardware/qcom/display-legacy" name="Team-Hydra/android_hardware_qcom_display-legacy" />
   <project path="hardware/qcom/media-legacy" name="Team-Hydra/android_hardware_qcom_media-legacy" revision="refs/heads/cm-11.0" />
 
