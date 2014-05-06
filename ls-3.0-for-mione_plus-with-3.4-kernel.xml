@@ -7,8 +7,8 @@
 
   <project path="hardware/qcom/display-legacy" name="iptux/android_hardware_qcom_display-legacy" remote="github" revision="jb-7.8"/>
   <project path="hardware/qcom/media-legacy" name="Team-Hydra/android_hardware_qcom_media-legacy"  remote="github" revision="cm-11.0"/>
-  <project path="vendor/xiaomi/mione_plus" name="iptux/android_vendor_xiaomi_mione_plus" remote="github" revision="jb-7.8" />
-  <project path="device/xiaomi/mione_plus" name="miaosp/android_device_xiaomi_mione_plus" remote="github" revision="cm-11.0" />
+  <project path="vendor/xiaomi/mione_plus" name="iptux/android_vendor_xiaomi_mione_plus" remote="github" revision="kernel-3.4" />
+  <project path="device/xiaomi/mione_plus" name="miaosp/android_device_xiaomi_mione_plus" remote="github" revision="ls_kk-7.8" />
   <project path="device/xiaomi/msm8660-common" name="rtfpessoa/android_device_xiaomi_msm8660-common" remote="github" revision="jb-7.8" />
 
 </manifest>
